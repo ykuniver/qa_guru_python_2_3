@@ -6,4 +6,4 @@ I am a developer, and I need to change this piece of the text.
 
 Hmm, let's change something here.
 
-One more string for to create a conflict.
+Here is one more string for to create a conflict.
