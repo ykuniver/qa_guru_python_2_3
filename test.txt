@@ -3,3 +3,5 @@ Hello, world!
 Nice to here from you.
 
 Hmm, let's change something here.
+
+One more string for to create a conflict.
